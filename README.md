@@ -1,10 +1,10 @@
 arcade-game
 ===============================
 
-##About
+## About
 This arcade game was made for the udacity Front End nanodegree project submission. 
 
-##How to play
+## How to play
 
 Use keyboard arrow to naviguate thru ennemies towards the water to score whitout getting hit.
 You have a total of 3 lives or the game will be reset.
